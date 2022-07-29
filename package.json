@@ -4,16 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Kxiru/Jenkins-node.git"
+      "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Kxiru/Jenkins-node/issues"
-  },
-  "homepage": "https://github.com/Kxiru/Jenkins-node#readme"
+  "license": "ISC"
 }
